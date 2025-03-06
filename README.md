@@ -25,7 +25,7 @@ This project implements a game where a snail character follows a predefined path
 To clone this project, run the following command in your terminal:
 ```sh
  git clone https://github.com/youssefbenkhalifa/Snail-Path-Following
-
+```
 ## Contribution
 Feel free to modify and improve the project. Suggestions and contributions are always welcome!
 
